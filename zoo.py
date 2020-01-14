@@ -10,20 +10,20 @@ if animal_to_find in my_zoo:
 (first_animal, second_animal, third_animal, fourth_animal, fifth_animal, sixth_animal, seventh_animal, eighth_animal, ninth_animal, tenth_animal) = my_zoo
 
 print(first_animal)
-# print(second_animal)
-# print(third_animal)
-# print(fourth_animal)
-# print(fifth_animal)
-# print(sixth_animal)
-# print(seventh_animal)
-# print(eighth_animal)
-# print(ninth_animal)
-# print(tenth_animal)
+print(second_animal)
+print(third_animal)
+print(fourth_animal)
+print(fifth_animal)
+print(sixth_animal)
+print(seventh_animal)
+print(eighth_animal)
+print(ninth_animal)
+print(tenth_animal)
 
 
 
 zoo_list = list(my_zoo)
-# print(zoo_list)
+print(zoo_list)
 
 
 zoo_list.extend(["Moose", "Squirrel"])
